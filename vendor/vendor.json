@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "/OoEj0wxK7Rd25jAlZv1xi+e9wg=",
+			"path": "github.com/kisielk/gotool",
+			"revision": "d6ce6262d87e3a4e153e86023ff56ae771554a41",
+			"revisionTime": "2017-08-28T04:23:10Z"
+		},
+		{
+			"checksumSHA1": "9jyCVFMF5GDl15Vqp2ZxRmmNftE=",
+			"path": "github.com/kisielk/gotool/internal/load",
+			"revision": "d6ce6262d87e3a4e153e86023ff56ae771554a41",
+			"revisionTime": "2017-08-28T04:23:10Z"
+		},
+		{
+			"checksumSHA1": "8bP6iLolDGDRKAnx89Qb/OatWDE=",
+			"path": "golang.org/x/tools/go/ast/astutil",
+			"revision": "e531a2a1c15f94033f6fa87666caeb19a688175f",
+			"revisionTime": "2017-09-14T20:19:24Z"
+		},
+		{
+			"checksumSHA1": "AnXFEvmaJ7w2Q7hWPcLUmCbPgq0=",
+			"path": "golang.org/x/tools/go/buildutil",
+			"revision": "e531a2a1c15f94033f6fa87666caeb19a688175f",
+			"revisionTime": "2017-09-14T20:19:24Z"
+		},
+		{
+			"checksumSHA1": "ZpAR2KupZto/mWf9zu5e6IKDWt0=",
+			"path": "golang.org/x/tools/go/loader",
+			"revision": "e531a2a1c15f94033f6fa87666caeb19a688175f",
+			"revisionTime": "2017-09-14T20:19:24Z"
+		}
+	],
+	"rootPath": "github.com/awalterschulze/goanalysis"
+}
